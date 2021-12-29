@@ -1,0 +1,5 @@
+.menu__wrapper {
+  max-width: 1044px;
+  margin: 0 auto;
+  display: flex;
+}

@@ -1,0 +1,9 @@
+.footer__column {
+  flex-basis: 522px;
+  border-right: 1px solid #FFFFFF;
+}
+
+.footer__column:last-child {
+  border-right: none;
+  padding-left: 50px;
+}

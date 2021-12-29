@@ -1,0 +1,11 @@
+.promo__label {
+  background-color: #ffff;
+  max-width: 500px;
+  min-height: 275px;
+  text-align: center;
+  margin-right: 58px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

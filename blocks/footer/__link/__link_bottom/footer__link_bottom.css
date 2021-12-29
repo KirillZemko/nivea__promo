@@ -1,0 +1,10 @@
+.footer__link_bottom {
+  list-style: none;
+  display: inline;
+  margin-right: 10px;
+  list-style-image: url(../../../../images/icon-top.svg);
+}
+
+.footer__link_bottom::after {
+
+}

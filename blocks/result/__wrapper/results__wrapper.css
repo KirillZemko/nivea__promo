@@ -1,0 +1,10 @@
+.result__wrapper {
+  max-width: 1044px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}

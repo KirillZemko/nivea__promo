@@ -1,0 +1,11 @@
+.promo {
+  background-image: url(../../images/promo-bg.png);
+  background-size: cover;
+  min-width: 100%;
+  min-height: 650px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  position: relative;
+  z-index: 20;
+}

@@ -1,0 +1,12 @@
+.cart__title {
+  font-family: 'Nivea Medium OT';
+  margin: 0;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  text-transform: uppercase;
+  color: #06369D;
+  text-align: center;
+  width: 344px;
+}

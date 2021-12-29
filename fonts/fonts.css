@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Nivea Light OT';
+  src: url('NiveaLightOT.eot');
+  src: local('Nivea Light OT'), local('NiveaLightOT'),
+      url('NiveaLightOT.eot?#iefix') format('embedded-opentype'),
+      url('NiveaLightOT.woff') format('woff'),
+      url('NiveaLightOT.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nivea Medium OT';
+  src: url('NiveaMediumOT.eot');
+  src: local('Nivea Medium OT'), local('NiveaMediumOT'),
+      url('NiveaMediumOT.eot?#iefix') format('embedded-opentype'),
+      url('NiveaMediumOT.woff') format('woff'),
+      url('NiveaMediumOT.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nivea Bold OT';
+  src: url('NiveaBoldOT.eot');
+  src: local('Nivea Bold OT'), local('NiveaBoldOT'),
+      url('NiveaBoldOT.eot?#iefix') format('embedded-opentype'),
+      url('NiveaBoldOT.woff') format('woff'),
+      url('NiveaBoldOT.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}

@@ -1,0 +1,14 @@
+.button {
+  font-family: 'Nivea Bold OT';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 22px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  background: #0032A0;
+  border-radius: 100px;
+  border: none;
+  padding: 17px 40px;
+  cursor: pointer;
+}

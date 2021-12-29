@@ -1,0 +1,13 @@
+.product-table__item {
+  width: 405px;
+  margin-right: 60px;
+  margin-top: 50px;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.product-table__item:last-child {
+  margin-right: 0;
+}

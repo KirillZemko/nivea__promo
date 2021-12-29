@@ -1,0 +1,17 @@
+.button_type_buy {
+  background-color: #ffff;
+  border: 1px solid #06369D;
+  box-sizing: border-box;
+  border-radius: 25px;
+  padding: 13px 35px;
+  color: #06369D;
+  margin-top: 26px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+

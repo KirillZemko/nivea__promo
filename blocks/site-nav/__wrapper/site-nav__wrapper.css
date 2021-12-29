@@ -1,0 +1,7 @@
+.site-nav__wrapper {
+  max-width: 1044px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+}

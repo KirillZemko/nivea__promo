@@ -1,0 +1,6 @@
+.cart__buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 360px;
+}

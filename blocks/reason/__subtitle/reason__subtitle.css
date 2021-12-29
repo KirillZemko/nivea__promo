@@ -1,0 +1,11 @@
+.reason__subtitle {
+  margin: 0;
+  font-family: 'Nivea Bold OT';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+  text-transform: uppercase;
+
+  color: #06369D;
+}

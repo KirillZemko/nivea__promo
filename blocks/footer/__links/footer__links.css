@@ -1,0 +1,12 @@
+.footer__links {
+  color: #ffff;
+  width: 472px;
+  border-bottom: 1px solid #FFFF;
+  padding-bottom: 44px;
+}
+
+.footer__links:last-child {
+  border-bottom: none;
+  padding-top: 36px;
+  padding-bottom: 0;
+}

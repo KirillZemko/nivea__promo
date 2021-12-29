@@ -1,0 +1,10 @@
+.main-nav-icons__item {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  margin-right: 30px;
+}
+
+.main-nav-icons__item:last-child {
+  margin-right: 0;
+}

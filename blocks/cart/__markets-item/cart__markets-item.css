@@ -1,0 +1,12 @@
+.cart__markets-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 144px;
+  margin-right: 43px;
+}
+
+.cart__markets-item:last-child {
+  margin-right: 0;
+}

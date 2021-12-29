@@ -1,0 +1,11 @@
+.creme__title {
+  margin: 0;
+  font-family: 'Nivea Bold OT';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 38px;
+  text-align: center;
+  text-transform: uppercase;
+  max-width: 593px;
+}

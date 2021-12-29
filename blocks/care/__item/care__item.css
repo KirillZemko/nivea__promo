@@ -1,0 +1,14 @@
+.care__item {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+  color: #06369D;
+  margin-top: 22px;
+  margin-bottom: 24px;
+  padding-left: 10px;
+}
+
+.care__item:last-child {
+  margin-bottom: 0;
+}

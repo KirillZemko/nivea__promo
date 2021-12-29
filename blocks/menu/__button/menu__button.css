@@ -1,0 +1,16 @@
+.menu__button {
+  flex-grow: 1;
+  background-color: #ffff;
+  border: 1px solid #EFF5FA;
+  box-sizing: border-box;
+  border-radius: 5px;
+  padding-top: 9px;
+  padding-bottom: 10px;
+  cursor: pointer;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  color: #0032A0;
+}

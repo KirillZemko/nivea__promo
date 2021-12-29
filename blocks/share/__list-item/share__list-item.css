@@ -1,0 +1,10 @@
+.share__list-item {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  margin-right: 20px;
+}
+
+.share__list-item:last-child {
+  margin-right: 0;
+}

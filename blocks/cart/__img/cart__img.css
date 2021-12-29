@@ -1,0 +1,6 @@
+.cart__img {
+  height: 298px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,10 @@
+.footer__social-icon {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  margin-right: 10px;
+}
+
+.footer__social-icon:last-child {
+  margin-right: 0;
+}

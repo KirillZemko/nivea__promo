@@ -1,0 +1,9 @@
+.promo__product2 {
+  position: absolute;
+  bottom: 118px;
+  left: 242px;
+  width: 85px;
+  height: 218px;
+  transform: rotate(-15deg);
+  z-index: 2;
+}

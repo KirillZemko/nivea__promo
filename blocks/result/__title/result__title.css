@@ -1,0 +1,13 @@
+.result__title {
+  font-family: 'Nivea Bold OT';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 38px;
+  text-transform: uppercase;
+  color: #0032A0;
+  margin: 0;
+  margin-top: 15px;
+  width: 593px;
+  text-align: center;
+}
